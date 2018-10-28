@@ -4,16 +4,14 @@
 
 ### What did your team do last week?
 * Set up repository
-* Identify deliverables
 * Make plan
 
 ### What will you do this week?
-* Investigate different solutions
-* Prototype plugin server
+* Begin writing skeleton code
+* Create a player object class and a question object class
 
 ### Any blocking issues/challenges need to be addressed?
-* Get server to work on Linux machines, but not Windows
-* Client-server communication is flaky
+* Shouldn't be any issues or challenges yet
 
 
 ## Week 2 (Nov 5 - Nov 12)
