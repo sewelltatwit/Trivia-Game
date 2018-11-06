@@ -11,7 +11,7 @@
 1. Mobile trivia multiplayer games are either outdated or uninteresting. 
 2. Trivia is something that many see as a productive form of entertainment.
 3. Also, many of these games are either only for entertainment or restricted 
-to being a ëstudy toolí allowing it to be customizable makes it so the
+to being a ‚Äòstudy tool‚Äô allowing it to be customizable makes it so the
 player can do both. 
 
 **How**
@@ -20,13 +20,14 @@ send keyword input back to the server.
 
 **Deliverable**
 By the end of the semester we expect to have a fully functioning game that
-will allow users to connect between themselves and the server.
+will allow users to connect between themselves and the server.
+
 
 **Plan**
 - [] 11/10/18 - We hope to have a working connection between two (possibly more) end users that
 can transmit messages.
 - [] 11/20/18 - We hope to have a game that works in practice
-- [] 11/25/18 - We hope to have a finished ìtrivia serverî that will handle messages sent to and from
+- [] 11/25/18 - We hope to have a finished ‚Äútrivia server‚Äù that will handle messages sent to and from
 end users and eventually record them.
 - [] 12/1/19 - a working conection and game
 
@@ -35,3 +36,7 @@ end users and eventually record them.
 Nick Moyer
 Tyla sewell
 sean cox
+
+# Comments
+1. Give more details on the deliverables. Think about what you are going to demo in the final presentation and compile a list of features that will be delivered. What does it mean by a fully functioning trivia game? 
+2. For the plan, remove [], add the concrete date ranges. Don't use "we hope"
