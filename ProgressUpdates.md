@@ -26,3 +26,6 @@ Try to send a question with a response answer from one machine to another
 The process of sending a message from one machine to another reliably will
 most likely be the most daunting challenge of the project.
 The demo in class will be followed as a guideline for this problem.
+
+# Comments
+1. Break down more on the bullet points. For example Finished skeleton code and question class --> What are in the skeleton code? What question class is for?
