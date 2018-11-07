@@ -37,7 +37,7 @@ end users and eventually record them.
 **Team members**
 
 Nick Moyer
-Tyla sewell
+Tyla Sewell
 Sean Cox
 
 # Comments
