@@ -24,21 +24,28 @@ will allow users to connect between themselves and the server. There will be que
 by a user who will submit an answer, which will then be interpreted by the server. Once the test
 is complete a score will be returned, and perhaps the questions that were incorrect with the
 expected answers.
+Eventually, connecting at least 2 players and allowing us to see who gets the higher score will be
+the final objective.
+Stress Goal: We will try to create a GUI if time permits.
 
 
 **Plan**
 - 11/10/18 - A working connection will be established between two (possibly more) end users that
 can transmit messages.
-- 11/20/18 - A game that works in a controlled setting
+- 11/20/18 - A game that works in a controlled setting (no connection)
 - 11/25/18 - We hope to have a finished “trivia server” that will handle messages sent to and from
-end users and eventually record them.
-- 12/1/19 - A reliable connection and bugless game
+end users and record them.
+- 12/1/19 - A reliable connection between 2 players and displaying winner.
+
+**Demo Flow**
+Server developed by Sean will send question  - to - Client developed by Tyla - displayed on - A GUI made by Nick
+
 
 **Team members**
 
 Nick Moyer
-Tyla Sewell
 Sean Cox
+Tyla Sewell
 
 # Comments
 1. Give more details on the deliverables. Think about what you are going to demo in the final presentation and compile a list of features that will be delivered. What does it mean by a fully functioning trivia game? 
