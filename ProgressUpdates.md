@@ -30,7 +30,7 @@ The demo in class will be followed as a guideline for this problem.
 # Comments
 1. Break down more on the bullet points. For example Finished skeleton code and question class --> What are in the skeleton code? What question class is for?
 
-## Week 3 (Nov 12  - Nov 19)
+## Week 3 (Nov 19  - Nov 26)
 
 ### What did your team do last week?
 * Managed to make a connection between two computers 
@@ -41,3 +41,15 @@ Try to send the question and answer between the server machine and the client ma
 
 ### Any blocking issues/challenges need to be addressed?
 Sending a message from one machine to another is challenging for us, but we are using our chat program as a guideline.
+
+## Week 4 (Nov 19 - Nov 26)
+
+### What did your team do last week?
+* Have the connection between users send data back and forth
+* Clean up code and finished the client side reciving method
+
+### What will your team do this week?
+This week will fully implement the GUI with the data as to create a functioning game. 
+
+### Any blocking issues/challenges need to be addressed?
+We have had issues having the information sent in through an array being read correctly.  
