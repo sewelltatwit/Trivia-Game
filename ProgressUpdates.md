@@ -42,7 +42,7 @@ Try to send the question and answer between the server machine and the client ma
 ### Any blocking issues/challenges need to be addressed?
 Sending a message from one machine to another is challenging for us, but we are using our chat program as a guideline.
 
-## Week 4 (Nov 19 - Nov 26)
+## Week 4 (Nov 26 - Dec 3)
 
 ### What did your team do last week?
 * Have the connection between users send data back and forth
