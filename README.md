@@ -41,8 +41,8 @@ end users and record them.
 Server developed by Sean will send question  - to - Client developed by Tyla - displayed on - A GUI made by Nick
 
 **Getting Started**
->Install
->Run
+- Install
+- Run
 
 **Features**
 - Server to send the questions to the player and a score based on each answer the player picks
