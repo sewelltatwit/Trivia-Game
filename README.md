@@ -45,8 +45,8 @@ Server developed by Sean will send question  - to - Client developed by Tyla - d
 >Run
 
 **Features**
--Server to send the questions to the player and a score based on each answer the player picks
--GUI on the player end that displays the question, answer choices, score, and a button for each choice
+- Server to send the questions to the player and a score based on each answer the player picks
+- GUI on the player end that displays the question, answer choices, score, and a button for each choice
 
 **Team members**
 
