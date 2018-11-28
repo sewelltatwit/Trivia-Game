@@ -48,6 +48,9 @@ Server developed by Sean will send question  - to - Client developed by Tyla - d
 - Server to send the questions to the player and a score based on each answer the player picks
 - GUI on the player end that displays the question, answer choices, score, and a button for each choice
 
+**Conclusion**
+We learned how to read and write using a buffer, and how to use the buffer to send messages between a server and a client. We reinforced our understanding of socket programming and how to debug. The buffered reader wasn't always predictable, but by debugging and going step by step we were able to get it to work in the end.
+
 **Team members**
 
 Nick Moyer
