@@ -44,6 +44,7 @@ https://youtu.be/xRR3csXw0Dk
 **Getting Started**
 - Install
 - Run
+We were only able to turn one class in our project into a runnable JAR file, so for now the game is only executable on Eclipse where our project is located.
 
 **Features**
 - Server to send the questions to the player and a score based on each answer the player picks
